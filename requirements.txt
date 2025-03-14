@@ -1,0 +1,16 @@
+Flask
+pyttsx3
+speechrecognition
+pyautogui
+webbrowser
+pyjokes
+plyer
+speedtest-cli
+wolframalpha
+pynput
+wikipedia
+pywhatkit
+deep-translator
+gTTS
+pygame
+requests
