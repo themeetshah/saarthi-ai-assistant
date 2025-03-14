@@ -42,6 +42,7 @@
 ```
 Saarthi/
 │── modules/ # All modules
+│── static/
 │── templates/   
     │── index.html  
 │── app.py
